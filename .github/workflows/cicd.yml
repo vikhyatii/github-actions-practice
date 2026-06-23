@@ -28,7 +28,4 @@ jobs:
       - name: Deploying on the machine
         run: echo "Deploying the code"
 
-      
-      - 
-
         
