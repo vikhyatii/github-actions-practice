@@ -1,4 +1,4 @@
-# Program to check if a number is prime or not #checking
+# Program to check if a number is prime or not #checking ok
 
 num = 29
 
